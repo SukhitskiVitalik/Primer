@@ -38,4 +38,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <documents>Document.Поступление</documents>
 </mdclass:Configuration>
